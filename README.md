@@ -33,17 +33,20 @@ cd ApnaGPT
 
 
 Install Backend Dependencies
+
 cd Backend
 npm install
 
 MONGODB_URI=your_mongodb_connection_string
 OPENAI_API_KEY=your_openai_api_key
 
+
 Start the backend server
 
 nodemon server.js
 
 Install Frontend Dependencies
+
 cd ../Frontend
 npm install
 npm run dev
