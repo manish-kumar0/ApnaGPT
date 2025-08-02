@@ -47,7 +47,7 @@ OPENAI_API_KEY=your_openai_api_key
 
 Start the backend server
 
-//nodemon server.js
+nodemon server.js
 
 Install Frontend Dependencies
 
