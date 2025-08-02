@@ -34,7 +34,9 @@ cd ApnaGPT
 
 Install Backend Dependencies
 
+
 cd Backend
+
 npm install
 
 MONGODB_URI=your_mongodb_connection_string
@@ -47,12 +49,16 @@ nodemon server.js
 
 Install Frontend Dependencies
 
+
 cd ../Frontend
+
 npm install
+
 npm run dev
 
 
 URLs
+
 Frontend: http://localhost:5173
 
 Backend API: http://localhost:8080/api
