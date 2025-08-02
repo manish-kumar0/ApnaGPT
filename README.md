@@ -29,6 +29,7 @@ ApnaGPT/
 
 bash
 git clone https://github.com/manish-kumar0/ApnaGPT.git
+
 cd ApnaGPT   
 
 
@@ -40,12 +41,13 @@ cd Backend
 npm install
 
 MONGODB_URI=your_mongodb_connection_string
+
 OPENAI_API_KEY=your_openai_api_key
 
 
 Start the backend server
 
-nodemon server.js
+//nodemon server.js
 
 Install Frontend Dependencies
 
