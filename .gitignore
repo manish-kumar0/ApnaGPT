@@ -1,0 +1,11 @@
+# node_modules folders
+Frontend/node_modules/
+npm install
+npm run dev
+
+Backend/node_modules/
+npm install
+nodemon server.js
+
+# Environment files
+Backend/.env
